@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 30px;
+}
+
+form{
+    margin-bottom: 20px;
+}
+
+input {
+    padding:0%;
+    margin-right: 8px;
+    border:1px solid #ccc;
+} 
+
+button{
+    padding: 8px;
+}
+ 
+ul li {
+    margin-bottom :10px;
+}
+
+form input, form button{
+    padding: 8px;
+    margin:5px;
+}
